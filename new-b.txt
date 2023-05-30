@@ -1,5 +1,2 @@
-new document
-
-content file 
-
-document file content 
+line1
+line2 master and changing-b
